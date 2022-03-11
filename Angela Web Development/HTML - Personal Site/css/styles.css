@@ -23,7 +23,21 @@ hr {
     width: 5%;
 }
 
+img:hover {
+    background-color: gold;
+}
+
 /*********************CLASS SELECTORS*********************/
+
 .grapes {
     background-color: blue;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/*********************ID SELECTORS*********************/
+#heading-one {
+    color: aqua;
 }
